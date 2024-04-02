@@ -1,0 +1,14 @@
+name: cron
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: ./rand.sh
