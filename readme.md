@@ -1,1 +1,1 @@
-<img src='./img/F5TYcvobsAAQmf1.jpeg' style='width:100%'>
+<img src='./img/F6Aush1XsAAjakc.jpeg' style='width:100%'>
